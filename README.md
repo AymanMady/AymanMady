@@ -40,6 +40,8 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Spring-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Odoo-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
 </p>
 
 ### 📱 Mobile Development
