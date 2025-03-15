@@ -40,8 +40,8 @@
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Spring-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Odoo-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Spring-%23DD0031.svg?style=flat&logo=spring&logoColor=yellow" alt="Spring" />
+  <img src="https://img.shields.io/badge/Odoo-%23DD0031.svg?style=flat&logo=odoo&logoColor=blue" alt="Angular" />
 </p>
 
 ### 📱 Mobile Development
@@ -62,13 +62,9 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Oracle-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Oracle-%23FFCA28.svg?style=flat&logo=oracle&logoColor=black" alt="Oracle" />
 </p>
 
-### 🤖 Automation Tools
-<p>
-  <img src="https://img.shields.io/badge/shell%2343B02A.svg?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
-</p>
 </div>
 
 ## ❤️ Let's get connected:
