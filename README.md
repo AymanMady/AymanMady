@@ -11,7 +11,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./dev.jpg" height="290px" align="right" />
+<img  src="./dev.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](http://bechirmady.tech/)**
 
